@@ -3,9 +3,7 @@ An invention that can minimize traffic jams by taking down traffic waves.
 Stop waves, ghost jams, traffic snakes. Howvever you may want to call them, traffic waves are a fundamental cause of day to day traffic jams. These are travelling disturbances in the distribution of vehicles on a highway. How do they occur? For a wave to start there must be a disturbance, for example a pedestrian crossing the road. The pedestrian forces a car to slow down, a slowed down car forces the car behind it to slow down and the car behind it to slow a bit more, and the car behind it to slow even more until one car comes to a complete stop. After which the following cars are forced to remain stationary, each succesing car forced to stay at rest for longer. 
 
 CGP Grey expalins this phenomena best in his youtube video,
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iHzzSao6ypE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+https://www.youtube.com/watch?v=iHzzSao6ypE
 
 and this video https://www.youtube.com/watch?v=Suugn-p5C1M describes an experiment conducted by japanese researchers who made cars drive in a circle to observe whether or not any jams would be seen. It makes sense to expect that no traffic jams would be made, but thats not what happened. Now consider the modern road system and all the possible disturbances. Traffic waves are bound to thrive. 
 
