@@ -31,10 +31,14 @@ void loop() {
 if ( distance < 300 ) {
   digitalWrite( LED, HIGH );
   digitalWrite( LED2, LOW ); }
+  
+  // 300cm is not only for the testing, a more proper distance should be discussed
     
  else {
   digitalWrite ( LED, LOW );
   digitalWrite ( LED2, HIGH ); }
+  
+  // sketch for buzzer has not been added yet. When distance remains <threshold for 10 seconds, the buzzer would go on and off until the distance becomes <= threshold.
 
 }
   
