@@ -32,7 +32,7 @@ if ( distance < 300 ) {
   digitalWrite( LED, HIGH );
   digitalWrite( LED2, LOW ); }
   
-  // 300cm is not only for the testing, a more proper distance should be discussed
+  // 300cm is only for testing, a more proper distance should be discussed
     
  else {
   digitalWrite ( LED, LOW );
