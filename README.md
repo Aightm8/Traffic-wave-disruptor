@@ -15,11 +15,13 @@ The issue is.. how do you get people do maintain that distance? Its hard enough 
 
 **Now im finally going to explain what the invention is..** 
 </Br>
+</Br>
 
 
 
 ![alt text](https://github.com/Aightm8/Traffic-wave-disruptor/blob/master/TWD%20prototype%20v1/_MG_6257.JPG)
 Fig: First prototype of the traffic wave disruptor
+</Br>
 </Br>
 
 
