@@ -14,11 +14,13 @@ So whats the solution? The solution for traffic waves is to keep vehicles apart 
 The issue is.. how do you get people do maintain that distance? Its hard enough for the human brain to accurately decide what that distance is, but also taking into consideration the fact that people would just forget to do so or may not be bothered to think about it, that is unlikely. 
 
 **Now im finally going to explain what the invention is..** 
+</Br>
 
 
 
 ![alt text](https://github.com/Aightm8/Traffic-wave-disruptor/blob/master/TWD%20prototype%20v1/_MG_6257.JPG)
-
+Fig: First prototype of the traffic wave disruptor
+</Br>
 
 
 You can get people to maintain that distance by giving them a signal. The traffic wave disruptor is a signal. It uses an ultrasonic distance sensor attached to the front of the vehicle to measure the distance between their vehicle and the vehicle infront of them. If the distance is below a set threshold ( the distance vehicles should maintain between each other ) A yellow LED will light up, indicating that the driver should back up. When the distance reaches the threshold, a green LED lights up indicating that they should stop. The more vehicle on the road that have this signal, the more that traffic waves can be stopped, because each individual vehicle with a traffic wave disruptor will contribute to take down traffic waves. The TWD can even double as an anti-collision warning signal. 
