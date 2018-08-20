@@ -25,3 +25,6 @@ You can get people to maintain that distance by giving them a signal. The traffi
 
 Hopefully we can get the costs down on this product and make it possible for more and more drivers to own one. So please consider collaborating on this project and bring an end to traffic waves :D
 
+
+![alt text](Desktop/OSHWA logo)
+
