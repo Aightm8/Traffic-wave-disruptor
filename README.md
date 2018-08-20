@@ -35,3 +35,5 @@ Hopefully we can get the costs down on this product and make it possible for mor
 This product is certified by the Open Source HardWare Association.
 https://www.oshwa.org/definition/
 
+Certfication directory, http://certificate.oshwa.org/certification-directory/
+
