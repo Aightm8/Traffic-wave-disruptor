@@ -5,6 +5,8 @@ Stop waves, ghost jams, traffic snakes. Howvever you may want to call them, traf
 CGP Grey expalins this phenomena best in his youtube video,
 https://www.youtube.com/watch?v=iHzzSao6ypE
 
+and theres this one which involves a computer model, https://www.youtube.com/watch?v=goVjVVaLe10
+ 
 and this video https://www.youtube.com/watch?v=Suugn-p5C1M describes an experiment conducted by japanese researchers who made cars drive in a circle to observe whether or not any jams would be seen. It makes sense to expect that no traffic jams would be made, but thats not what happened. Now consider the modern road system and all the possible disturbances. Traffic waves are bound to thrive. 
 
 In today's highways and cities, there are so many things that can cause these disturbances: Pedestrians, overtaking cars and intersections. intersections are the worst. Notice that when you're waiting in an intersection for the signal and it gives you the green light you cant really take off immediately, you have to wait until the car infront of you takes off and gives you the distance you need to move. You're forced to be stuck even when the light is green, and this wastes time! Added up, this time makes cars have to wait a significant duration longer to cross an intersection. This is why those long roads that have intersections far apart from each other, those roads that can't possibly be jamed, get jamed. Traffic waves cause jams from intersections to extend further and further into the road making jams that last for hours. I like to call these intersections, traffic wave generators.
