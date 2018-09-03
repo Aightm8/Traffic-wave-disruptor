@@ -10,7 +10,7 @@ and this video https://www.youtube.com/watch?v=Suugn-p5C1M describes an experime
 In today's highways and cities, there are so many things that can cause these disturbances: Pedestrians, overtaking cars and intersections. intersections are the worst. Notice that when you're waiting in an intersection for the signal and it gives you the green light you cant really take off immediately, you have to wait until the car infront of you takes off and gives you the distance you need to move. You're forced to be stuck even when the light is green, and this wastes time! Added up, this time makes cars have to wait a significant duration longer to cross an intersection. This is why those long roads that have intersections far apart from each other, those roads that can't possibly be jamed, get jamed. Traffic waves cause jams from intersections to extend further and further into the road making jams that last for hours. I like to call these intersections, traffic wave generators.
 
 So whats the solution? The solution for traffic waves is to keep vehicles apart from each other at a good distance. So when a car going down a highway is forced to slow down, the cars behind it should try to maintain that good distance, this will facilitate traffic flow in such a way that a traffic wave can't emerge. In an intersection, if waiting cars maintain this distance they can all take off at the same time because they won't need to wait until the car infront of them gives them distance to move, thus no wave to stop you. Maintaining distance between vehicles makes traffic wave generators and any disturbance much, much less likely to create large traffic waves.
-Refer this page; http://trafficwaves.org/tanim.html.
+Refer this page; http://trafficwaves.org/tanim.html. You may expect that by maintaining this uniform distance, it would cause vehicles to line up and and jam exits further back, but the idea is that intersections and stops can spit out vehicles faster than they collect.
 
 The issue is.. how do you get people do maintain that distance? Its hard enough for the human brain to accurately decide what that distance is, but also taking into consideration the fact that people would just forget to do so or may not be bothered to think about it, that is unlikely. 
 
@@ -36,4 +36,6 @@ This product is certified by the Open Source HardWare Association.
 https://www.oshwa.org/definition/
 
 Certfication directory; http://certificate.oshwa.org/certification-directory/
+
+If you are interested in manufacturing, research or something similar contact me by email- rpk.ravinu@gmail.com
 
