@@ -5,7 +5,7 @@ Stop waves, ghost jams, traffic snakes. Howvever you may want to call them, traf
 CGP Grey expalins this phenomena best in his youtube video,
 https://www.youtube.com/watch?v=iHzzSao6ypE
 
-and theres this one which involves a computer model, https://www.youtube.com/watch?v=goVjVVaLe10
+and theres this one which explains it with a computer model, https://www.youtube.com/watch?v=goVjVVaLe10
  
 and this video https://www.youtube.com/watch?v=Suugn-p5C1M describes an experiment conducted by japanese researchers who made cars drive in a circle to observe whether or not any jams would be seen. It makes sense to expect that no traffic jams would be made, but thats not what happened. Now consider the modern road system and all the possible disturbances. Traffic waves are bound to thrive. 
 
