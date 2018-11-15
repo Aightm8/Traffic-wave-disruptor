@@ -32,7 +32,11 @@ Fig: First prototype of the traffic wave disruptor
 
 You can get people to maintain that distance by giving them a signal. The traffic wave disruptor is a signal. It uses an ultrasonic distance sensor attached to the front of the vehicle to measure the distance between their vehicle and the vehicle infront of them. If the distance is below a set threshold ( the distance vehicles should maintain between each other ) A yellow LED will light up, indicating that the driver should back up. When the distance reaches the threshold, a green LED lights up indicating that they should stop. The more vehicles there are on the road that have this signal, the more that traffic waves can be stopped, because each individual vehicle with a traffic wave disruptor will contribute to take down traffic waves. The TWD can even double as an anti-collision warning signal.
 
-Hopefully we can get the costs down on this product and make it possible for more and more drivers to own one. So please consider collaborating on this project and bring an end to traffic waves :D
+Hopefully we can get the costs down on this product and make it possible for more and more drivers to own one.
+</br>
+The Traffic Wave Disruptor is opensource hardware and therefore free for anyone to redesign, manufacture, sell, use commercially or non-commercially. In support of the opensource movement.
+</br>   
+So please consider collaborating on this project and bring an end to traffic waves :D
 
 ![alt text](https://github.com/Aightm8/Traffic-wave-disruptor/blob/master/OSHWA%20logo.PNG)
 
@@ -41,5 +45,5 @@ https://www.oshwa.org/definition/
 
 Certfication directory; http://certificate.oshwa.org/certification-directory/
 
-If you are interested in manufacturing, research or something similar contact me by email- rpk.ravinu@gmail.com
+If you have any questions you can contact me by email- rpk.ravinu@gmail.com
 
