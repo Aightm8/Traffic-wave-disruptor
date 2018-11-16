@@ -47,3 +47,5 @@ Certfication directory; http://certificate.oshwa.org/certification-directory/
 
 If you have any questions you can contact me by email- rpk.ravinu@gmail.com
 
+Diagrams and design files available above
+
