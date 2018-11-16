@@ -25,7 +25,7 @@ The issue is.. how do you get people do maintain that distance? Its hard enough 
 
 
 ![alt text](https://github.com/Aightm8/Traffic-wave-disruptor/blob/master/TWD%20prototype%20v1/_MG_6257.JPG)
-Fig: First prototype of the traffic wave disruptor
+Fig: First prototype of the traffic wave disruptor. Future versions can be much smaller.
 </Br>
 </Br>
 
